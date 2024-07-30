@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(142, 149, 133);
+}
+p.center-aligned {
+    display: flex;
+    justify-content: center;
+}
+p.right-aligned {
+    display: flex;
+    justify-content: flex-end;
+}
+p.green-text {
+    color: green;
+    display: flex;
+}
+p.trebuchet {
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.big-text {
+    display: flex;
+    font-size: 30px;
+}
+p.white-arial-small {
+    display: flex;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
